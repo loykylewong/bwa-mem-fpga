@@ -1,3 +1,5 @@
+(see Project FPGA Impl. of BWA-MEM.md or pdf in doc/)
+
 # Implementation of BWA-MEM in FPGA
 
 ## 1. System Structure
@@ -746,7 +748,6 @@ For looking up $Occ(a, i)$:
 2. `c = block.AccuCount_<a>`, `s = block.Symbols`
 
 3. $Occ(a,i) = c + \vline \{ 0 \le j \lt \textrm{rem}(i, 32)\vline s[j]=a \} \vline $ (c plus the count of 'a' before(exc.) rem(i, 32)).
-
 
 
 
