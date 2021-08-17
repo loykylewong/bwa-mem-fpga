@@ -1,0 +1,18 @@
+1
+1832527715
+3137454506
+4442381297
+6274909011
+2668688548
+
+Infomations for: hs37d5_cocc.bin
+
+BWT Length (with '$')    : 6274909011	(0176038353)
+
+Primary ('$') position   : 2668688548	(009F10F4A4)
+
+Symbols (including '$')
+        smaller than 'A' : 1	(0000000001)
+        smaller than 'C' : 1832527715	(006D3A2763)
+        smaller than 'G' : 3137454506	(00BB01C1AA)
+        smaller than 'T' : 4442381297	(0108C95BF1)

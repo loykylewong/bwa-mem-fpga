@@ -1,0 +1,277 @@
+Z:/projects/modelsim/bwa_mem/test20_bidiremseek.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test20_bidiremseek.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module TestBiDirEmSeek
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestBiDirEmSeek
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test10_extension.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test10_extension.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module TestExtension
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestExtension
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test31_readmem.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test31_readmem.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module TestReadMemReseed
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestReadMemReseed
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test22_bidiremseek.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test22_bidiremseek.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module TestBiDirEmSeek3
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestBiDirEmSeek3
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s31_read_mem_reseed.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s31_read_mem_reseed.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module ReadMemReseed
+-- Importing package BwaMemDefines
+
+Top level modules:
+	ReadMemReseed
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s30_read_mem.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s30_read_mem.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ReadMem
+-- Importing package BwaMemDefines
+
+Top level modules:
+	ReadMem
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s22_bi_dir_em_seek.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s22_bi_dir_em_seek.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module BiDirEmSeek2
+-- Importing package BwaMemDefines
+
+Top level modules:
+	BiDirEmSeek2
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s23_bi_dir_em_seek.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s23_bi_dir_em_seek.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module BiDirEmSeek3
+-- Importing package BwaMemDefines
+
+Top level modules:
+	BiDirEmSeek3
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test33_readmem.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test33_readmem.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module TestReadMemReseed3
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestReadMemReseed3
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s27_reseed_filter.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s27_reseed_filter.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module ReseedFilter
+-- Importing package BwaMemDefines
+
+Top level modules:
+	ReseedFilter
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s10_extension.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s10_extension.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module Extension
+-- Importing package BwaMemDefines
+
+Top level modules:
+	Extension
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s33_read_mem_reseed.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s33_read_mem_reseed.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module ReadMemReseed3
+-- Importing package BwaMemDefines
+
+Top level modules:
+	ReadMemReseed3
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test50_synth_pbx16.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test50_synth_pbx16.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module TestSynthPBx16
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestSynthPBx16
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test40_pbx16.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test40_pbx16.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package SimSrcGen
+-- Compiling package CombFunctions
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module PBx16
+-- Importing package BwaMemDefines
+-- Compiling module TestPBx16
+-- Importing package SimSrcGen
+
+Top level modules:
+	TestPBx16
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s02_stream_rs.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s02_stream_rs.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module StreamRSLite
+-- Compiling module StreamIfRSLite
+
+Top level modules:
+	StreamRSLite
+	StreamIfRSLite
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test01_axi4l_file_rom.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test01_axi4l_file_rom.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module FileROM
+
+Top level modules:
+	FileROM
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv {2 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module MemFilter1
+-- Importing package BwaMemDefines
+-- Compiling module MemFilter2
+** Warning: Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv(378): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+** Warning: Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv(386): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+** Warning: Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv(433): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+** Warning: Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv(443): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+** Warning: Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv(453): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+** Warning: Z:/projects/modelsim/bwa_mem/s25_mem_filters.sv(461): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+
+Top level modules:
+	MemFilter1
+	MemFilter2
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s32_read_mem_reseed.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s32_read_mem_reseed.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module ReadMemReseed2
+-- Importing package BwaMemDefines
+
+Top level modules:
+	ReadMemReseed2
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s26_mem_assem.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s26_mem_assem.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module MemAssem
+-- Importing package BwaMemDefines
+
+Top level modules:
+	MemAssem
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s11_occ_decompr.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s11_occ_decompr.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module OccDecompress
+-- Importing package BwaMemDefines
+
+Top level modules:
+	OccDecompress
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s12_occ_lookup.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s12_occ_lookup.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling package BwaMemDefines
+-- Compiling interface Axi4StreamIf
+-- Compiling interface Axi4LiteIf
+-- Compiling module OccLookup
+-- Importing package BwaMemDefines
+
+Top level modules:
+	OccLookup
+
+} {} {}} Z:/projects/modelsim/bwa_mem/s01_sfifo2.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/s01_sfifo2.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module SdpRamRf
+-- Compiling module ScFifo2
+-- Compiling module StreamFifo
+
+Top level modules:
+	StreamFifo
+
+} {} {}} Z:/projects/modelsim/bwa_mem/test12_compressed_occ_lookup.sv {1 {vlog -work work -vopt -sv -stats=none Z:/projects/modelsim/bwa_mem/test12_compressed_occ_lookup.sv
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module TestCompressedOccLookup
+-- Importing package SimSrcGen
+-- Importing package BwaMemDefines
+
+Top level modules:
+	TestCompressedOccLookup
+
+} {} {}}

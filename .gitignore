@@ -1,0 +1,8 @@
+.DS_Store
+*.bak
+*.wlf
+work/
+#*.bin
+#*.txt
+#*.fastq
+covhtmlreport/
